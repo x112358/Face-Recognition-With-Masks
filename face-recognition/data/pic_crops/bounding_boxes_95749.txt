@@ -1,0 +1,5 @@
+/home/ubuntu/109/face-recognition/data/pic_crops/A.J._Buckley/aj_buck.png 407 200 434 233
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000152_N95.png
+/home/ubuntu/109/face-recognition/data/pic_crops/LEE/0968166981_KN95.png 54 49 146 163
+/home/ubuntu/109/face-recognition/data/pic_crops/LEE/0968166981_N95.png 56 45 147 162
+/home/ubuntu/109/face-recognition/data/pic_crops/LEE/0968166981_cloth.png 53 49 144 158

@@ -1,0 +1,1 @@
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000152_N95.png

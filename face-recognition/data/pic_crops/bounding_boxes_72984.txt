@@ -1,0 +1,5 @@
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000152_N95.png
+/home/ubuntu/109/face-recognition/data/pic_crops/alan_walker/1.png
+/home/ubuntu/109/face-recognition/data/pic_crops/alan_walker/6.png 172 64 203 113
+/home/ubuntu/109/face-recognition/data/pic_crops/alan_walker/7.png 69 50 136 132
+/home/ubuntu/109/face-recognition/data/pic_crops/alan_walker/5.png 27 21 123 140

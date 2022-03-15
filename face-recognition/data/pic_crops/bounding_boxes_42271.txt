@@ -1,0 +1,12 @@
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000152_N95.png
+/home/ubuntu/109/face-recognition/data/pic_crops/alan_walker/1.png
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/1.png 43 38 145 170
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/6.png 96 49 142 111
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/7.png 134 27 177 82
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/5.png 99 15 147 73
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/3.png 132 39 189 114
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/10.png 111 22 150 72
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/8.png 61 33 92 78
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/4.png 562 131 673 267
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/9.png 139 47 162 74
+/home/ubuntu/109/face-recognition/data/pic_crops/trump/2.png 77 26 163 128

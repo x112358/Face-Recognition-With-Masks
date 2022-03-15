@@ -1,0 +1,7 @@
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000152_N95.png
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000013_cloth.png 123 29 198 123
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000013_KN95.png 123 29 197 120
+/home/ubuntu/109/face-recognition/data/pic_crops/Aamir_Khan/00000013_N95.png 127 32 196 117
+/home/ubuntu/109/face-recognition/data/pic_crops/LEE/1_N95.png 1669 431 1832 634
+/home/ubuntu/109/face-recognition/data/pic_crops/LEE/1_cloth.png 1672 433 1831 629
+/home/ubuntu/109/face-recognition/data/pic_crops/LEE/1_KN95.png 1668 440 1831 632

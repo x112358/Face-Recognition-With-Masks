@@ -1,0 +1,20 @@
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Aamir_Khan\00000152_N95.png
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\0968166981_cloth.png 53 49 144 158
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\0968166981_KN95.png 54 49 146 163
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\0968166981_N95.png 56 45 147 162
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\1_cloth.png 1671 432 1831 629
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\1_KN95.png 1668 440 1831 632
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\1_N95.png 1668 431 1831 634
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\20727511_1408290605933463_1405934163_o_cloth.png 529 420 698 630
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\20727511_1408290605933463_1405934163_o_KN95.png 532 424 696 621
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_with_masks\20727511_1408290605933463_1405934163_o_N95.png 539 424 700 634
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\0968166981.png 54 43 146 170
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\1.png 1667 422 1835 651
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\161684582_212362604014112_7285270775073417715_n.png 122 16 157 61
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\161985781_1091320174701431_2776476101734131665_n.png 32 142 51 166
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\162044798_1656034644597620_3833134760112802608_n.png 118 63 155 112
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\162303245_436762177402281_3665544825826654512_n.png 73 68 129 139
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\162437963_784597425800276_7579123907952623943_n.png 23 69 56 117
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\164144903_889732805159279_8513198463094713610_n.png 45 23 74 61
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\164204012_5261649560575231_2848639102054976907_n.png 142 36 175 78
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\20727511_1408290605933463_1405934163_o.png 536 423 695 641

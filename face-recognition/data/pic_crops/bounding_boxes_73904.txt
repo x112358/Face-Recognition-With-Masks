@@ -1,0 +1,11 @@
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Aamir_Khan\00000152_N95.png
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\0968166981.png 54 43 146 170
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\1.png 1667 422 1835 651
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\161684582_212362604014112_7285270775073417715_n.png 122 16 157 61
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\161985781_1091320174701431_2776476101734131665_n.png 32 142 51 166
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\162044798_1656034644597620_3833134760112802608_n.png 118 63 155 112
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\162303245_436762177402281_3665544825826654512_n.png 73 68 129 139
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\162437963_784597425800276_7579123907952623943_n.png 23 69 56 117
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\164144903_889732805159279_8513198463094713610_n.png 45 23 74 61
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\164204012_5261649560575231_2848639102054976907_n.png 142 36 175 78
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\LEE_without_masks\20727511_1408290605933463_1405934163_o.png 536 423 695 641

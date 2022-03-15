@@ -1,0 +1,9 @@
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Aamir_Khan\00000152_N95.png
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\1.png 34 49 63 85
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\1_KN95.png 34 51 65 86
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\1_N95.png 34 51 64 86
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\1_surgical.png 34 50 64 85
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\2.png 226 91 427 358
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\2_KN95.png 235 105 418 340
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\2_N95.png 230 98 426 347
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Tsai\2_surgical.png 235 112 418 333

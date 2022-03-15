@@ -1,0 +1,2 @@
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Aamir_Khan\00000152_N95.png
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\alan_walker\1.png 158 38 237 135

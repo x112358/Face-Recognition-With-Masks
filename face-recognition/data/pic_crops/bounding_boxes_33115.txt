@@ -1,0 +1,11 @@
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Aamir_Khan\00000152_N95.png
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\10.png 316 164 515 408
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\11.png 310 160 516 418
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\12.png 317 150 519 406
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\13.png 221 174 420 405
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\14.png 274 140 467 373
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\15.png 268 158 468 399
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\16.png 228 118 473 425
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\17.png 203 130 465 446
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\18.png 224 131 457 411
+C:\Users\haha\Desktop\face-recognition\data\pic_crops\Lee\19.png 251 146 466 402
